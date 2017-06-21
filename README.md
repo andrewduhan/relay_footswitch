@@ -11,9 +11,9 @@ Inputs and outputs are sized to accept turret lugs (tubedepot part "BP-TURRET").
 Generate 5VDC and send it down the wire to your footswitch.  Leave your signal and tone where it belongs - inside your amp chassis.
 
 #BOM
-relay:              Omron G6A-234P-ST-US-DC5
-big cap:            4700uF 35V Nichicon
-little cap:         Optional, whatever you want really
-bridge rectifier:   Rectron BR305 
-diode:              1N4001 
-vreg:               7805 
+- relay:              Omron G6A-234P-ST-US-DC5
+- big cap:            4700uF 35V Nichicon
+- little cap:         Optional, whatever you want really
+- bridge rectifier:   Rectron BR305 
+- diode:              1N4001 
+- vreg:               7805 
